@@ -2,7 +2,7 @@
 #include <Adafruit_RGBLCDShield.h>
 #include <utility/Adafruit_MCP23017.h>
 
-//cmd on Coursework
+//To execute with python script (still requires Arduino Uno)
 /*
   PythonVenv\Scripts\activate.bat
   py PythonVenv\PythonHost.py COM3
